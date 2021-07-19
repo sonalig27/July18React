@@ -12,7 +12,7 @@ function App() {
           <Container fluid>
             <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 18 EDITION</h1>
             <p className="lead">
-              My Name is Sonali Ganatra and I am a student{" "}
+              My Name is Sonali Ganatra and I am a student in Eastern Time
             </p>
             <NavBar />
 
