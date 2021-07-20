@@ -47,7 +47,10 @@ function Homeworks() {
                   <td>Homework 2.2</td>
                   <td>HTML Wynisco website</td>
                   <td>
-                    <a href="https://github.com/sonalig27/Wynisco_hw2"> Link</a>{" "}
+                    <a href="https://github.com/sonalig27/Wynisco_hw2/">
+                      {" "}
+                      Link
+                    </a>{" "}
                   </td>
                 </tr>
               </tbody>
