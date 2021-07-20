@@ -42,6 +42,14 @@ function Homeworks() {
                     <a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a>{" "}
                   </td>
                 </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>Homework 2.2</td>
+                  <td>HTML Wynisco website</td>
+                  <td>
+                    <a href="https://github.com/sonalig27/Wynisco_hw2"> Link</a>{" "}
+                  </td>
+                </tr>
               </tbody>
             </Table>
           </Container>
